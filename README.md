@@ -10,6 +10,6 @@
 ## install
 
 
-
+- git clone https://github.com/leksoft/tcpdf-laravel-by-esandev.git
 - composer install
 - php artisan serve
